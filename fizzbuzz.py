@@ -1,5 +1,8 @@
 num = int(input('1つの自然数を入れてください:'))
 
-output = str(num)
+if num % 3 == 0:
+    output = "Fizz"
+else:
+    output = str(num)
 
 print(output)
