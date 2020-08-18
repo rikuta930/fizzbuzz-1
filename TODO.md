@@ -15,6 +15,6 @@ TODO
     -[x] 5 -> "Buzz"
     -[x] 10 -> "Buzz"
 
--[ ] ３と５の公倍数なら"FizzBuzz" 
-    -[ ] 15 -> "FizzBuzz"
-    -[ ] 30 -> "FizzBuzz"
+-[x] ３と５の公倍数なら"FizzBuzz" 
+    -[x] 15 -> "FizzBuzz"
+    -[x] 30 -> "FizzBuzz"

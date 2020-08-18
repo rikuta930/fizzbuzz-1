@@ -1,6 +1,8 @@
 num = int(input('1つの自然数を入れてください:'))
 
-if num % 3 == 0:
+if num % 3 == 0 and num % 5 == 0:
+    output = "FizzBuzz"
+elif num % 3 == 0:
     output = "Fizz"
 elif num % 5 == 0:
     output = "Buzz"
